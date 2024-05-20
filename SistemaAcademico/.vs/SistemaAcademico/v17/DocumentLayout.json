@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SistemaAcademico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBA7C2D-5F52-4E24-991B-D5CF339EE25C}|CapaPresentacionW\\CapaPresentacionW.csproj|d:\\sistemaacademico\\capapresentacionw\\docente1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CCBA7C2D-5F52-4E24-991B-D5CF339EE25C}|CapaPresentacionW\\CapaPresentacionW.csproj|solutionrelative:capapresentacionw\\docente1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBA7C2D-5F52-4E24-991B-D5CF339EE25C}|CapaPresentacionW\\CapaPresentacionW.csproj|d:\\sistemaacademico\\capapresentacionw\\docente1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBA7C2D-5F52-4E24-991B-D5CF339EE25C}|CapaPresentacionW\\CapaPresentacionW.csproj|solutionrelative:capapresentacionw\\docente1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E2FB7D-E21A-47D4-9AD5-BA9044A179BC}|CapaNegocio\\CapaNegocio.csproj|d:\\sistemaacademico\\capanegocio\\docentebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E2FB7D-E21A-47D4-9AD5-BA9044A179BC}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\docentebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E2FB7D-E21A-47D4-9AD5-BA9044A179BC}|CapaNegocio\\CapaNegocio.csproj|d:\\sistemaacademico\\capanegocio\\alumnobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E2FB7D-E21A-47D4-9AD5-BA9044A179BC}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\alumnobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0600BF72-BC3F-413A-9F8A-455FF2101CE3}|CapaDato\\CapaDato.csproj|d:\\sistemaacademico\\capadato\\docentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0600BF72-BC3F-413A-9F8A-455FF2101CE3}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\docentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374C93E8-5E89-4997-B365-77BCBEEF8014}|CapaEntidad\\CapaEntidad.csproj|d:\\sistemaacademico\\capaentidad\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374C93E8-5E89-4997-B365-77BCBEEF8014}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBA7C2D-5F52-4E24-991B-D5CF339EE25C}|CapaPresentacionW\\CapaPresentacionW.csproj|d:\\sistemaacademico\\capapresentacionw\\alumno1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBA7C2D-5F52-4E24-991B-D5CF339EE25C}|CapaPresentacionW\\CapaPresentacionW.csproj|solutionrelative:capapresentacionw\\alumno1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBA7C2D-5F52-4E24-991B-D5CF339EE25C}|CapaPresentacionW\\CapaPresentacionW.csproj|d:\\sistemaacademico\\capapresentacionw\\alumno1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CCBA7C2D-5F52-4E24-991B-D5CF339EE25C}|CapaPresentacionW\\CapaPresentacionW.csproj|solutionrelative:capapresentacionw\\alumno1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0600BF72-BC3F-413A-9F8A-455FF2101CE3}|CapaDato\\CapaDato.csproj|d:\\sistemaacademico\\capadato\\alumnodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0600BF72-BC3F-413A-9F8A-455FF2101CE3}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\alumnodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374C93E8-5E89-4997-B365-77BCBEEF8014}|CapaEntidad\\CapaEntidad.csproj|d:\\sistemaacademico\\capaentidad\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374C93E8-5E89-4997-B365-77BCBEEF8014}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0600BF72-BC3F-413A-9F8A-455FF2101CE3}|CapaDato\\CapaDato.csproj|d:\\sistemaacademico\\capadato\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0600BF72-BC3F-413A-9F8A-455FF2101CE3}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0600BF72-BC3F-413A-9F8A-455FF2101CE3}|CapaDato\\CapaDato.csproj|d:\\sistemaacademico\\capadato\\datossql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0600BF72-BC3F-413A-9F8A-455FF2101CE3}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\datossql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Docente1.aspx.cs",
+              "DocumentMoniker": "D:\\SistemaAcademico\\CapaPresentacionW\\Docente1.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacionW\\Docente1.aspx.cs",
+              "ToolTip": "D:\\SistemaAcademico\\CapaPresentacionW\\Docente1.aspx.cs",
+              "RelativeToolTip": "CapaPresentacionW\\Docente1.aspx.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAwEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:18:03.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Docente1.aspx",
+              "DocumentMoniker": "D:\\SistemaAcademico\\CapaPresentacionW\\Docente1.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacionW\\Docente1.aspx",
+              "ToolTip": "D:\\SistemaAcademico\\CapaPresentacionW\\Docente1.aspx",
+              "RelativeToolTip": "CapaPresentacionW\\Docente1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T07:16:40.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocenteDAL.cs",
+              "DocumentMoniker": "D:\\SistemaAcademico\\CapaDato\\DocenteDAL.cs",
+              "RelativeDocumentMoniker": "CapaDato\\DocenteDAL.cs",
+              "ToolTip": "D:\\SistemaAcademico\\CapaDato\\DocenteDAL.cs",
+              "RelativeToolTip": "CapaDato\\DocenteDAL.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:15:32.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "D:\\SistemaAcademico\\CapaEntidad\\Docente.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Docente.cs",
+              "ToolTip": "D:\\SistemaAcademico\\CapaEntidad\\Docente.cs",
+              "RelativeToolTip": "CapaEntidad\\Docente.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:14:41.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocenteBL.cs",
+              "DocumentMoniker": "D:\\SistemaAcademico\\CapaNegocio\\DocenteBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\DocenteBL.cs",
+              "ToolTip": "D:\\SistemaAcademico\\CapaNegocio\\DocenteBL.cs",
+              "RelativeToolTip": "CapaNegocio\\DocenteBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:14:02.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlumnoBL.cs",
+              "DocumentMoniker": "D:\\SistemaAcademico\\CapaNegocio\\AlumnoBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\AlumnoBL.cs",
+              "ToolTip": "D:\\SistemaAcademico\\CapaNegocio\\AlumnoBL.cs",
+              "RelativeToolTip": "CapaNegocio\\AlumnoBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:26:22.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alumno1.aspx.cs",
+              "DocumentMoniker": "D:\\SistemaAcademico\\CapaPresentacionW\\Alumno1.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacionW\\Alumno1.aspx.cs",
+              "ToolTip": "D:\\SistemaAcademico\\CapaPresentacionW\\Alumno1.aspx.cs",
+              "RelativeToolTip": "CapaPresentacionW\\Alumno1.aspx.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAqwJ4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:57:48.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alumno1.aspx",
+              "DocumentMoniker": "D:\\SistemaAcademico\\CapaPresentacionW\\Alumno1.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacionW\\Alumno1.aspx",
+              "ToolTip": "D:\\SistemaAcademico\\CapaPresentacionW\\Alumno1.aspx",
+              "RelativeToolTip": "CapaPresentacionW\\Alumno1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T05:57:25.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "D:\\SistemaAcademico\\CapaEntidad\\Alumno.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Alumno.cs",
+              "ToolTip": "D:\\SistemaAcademico\\CapaEntidad\\Alumno.cs",
+              "RelativeToolTip": "CapaEntidad\\Alumno.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:41:36.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlumnoDAL.cs",
+              "DocumentMoniker": "D:\\SistemaAcademico\\CapaDato\\AlumnoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDato\\AlumnoDAL.cs",
+              "ToolTip": "D:\\SistemaAcademico\\CapaDato\\AlumnoDAL.cs",
+              "RelativeToolTip": "CapaDato\\AlumnoDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:27:51.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatosSQL.cs",
+              "DocumentMoniker": "D:\\SistemaAcademico\\CapaDato\\DatosSQL.cs",
+              "RelativeDocumentMoniker": "CapaDato\\DatosSQL.cs",
+              "ToolTip": "D:\\SistemaAcademico\\CapaDato\\DatosSQL.cs",
+              "RelativeToolTip": "CapaDato\\DatosSQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:30:58.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "D:\\SistemaAcademico\\CapaDato\\Datos.cs",
+              "RelativeDocumentMoniker": "CapaDato\\Datos.cs",
+              "ToolTip": "D:\\SistemaAcademico\\CapaDato\\Datos.cs",
+              "RelativeToolTip": "CapaDato\\Datos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:11:53.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

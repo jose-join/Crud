@@ -1,0 +1,11 @@
+D:\SistemaAcademico\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\SistemaAcademico\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\SistemaAcademico\CapaNegocio\bin\Debug\CapaDato.dll
+D:\SistemaAcademico\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\SistemaAcademico\CapaNegocio\bin\Debug\CapaDato.pdb
+D:\SistemaAcademico\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\SistemaAcademico\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+D:\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.pdb

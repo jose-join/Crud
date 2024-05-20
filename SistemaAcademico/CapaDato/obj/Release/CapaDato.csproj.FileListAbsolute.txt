@@ -1,0 +1,9 @@
+D:\SistemaAcademico\CapaDato\bin\Release\CapaDato.dll
+D:\SistemaAcademico\CapaDato\bin\Release\CapaDato.pdb
+D:\SistemaAcademico\CapaDato\bin\Release\CapaEntidad.dll
+D:\SistemaAcademico\CapaDato\bin\Release\CapaEntidad.pdb
+D:\SistemaAcademico\CapaDato\obj\Release\CapaDato.csproj.AssemblyReference.cache
+D:\SistemaAcademico\CapaDato\obj\Release\CapaDato.csproj.CoreCompileInputs.cache
+D:\SistemaAcademico\CapaDato\obj\Release\CapaDato.csproj.Up2Date
+D:\SistemaAcademico\CapaDato\obj\Release\CapaDato.dll
+D:\SistemaAcademico\CapaDato\obj\Release\CapaDato.pdb

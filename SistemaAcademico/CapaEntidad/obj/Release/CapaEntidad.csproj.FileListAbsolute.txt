@@ -1,0 +1,6 @@
+D:\SistemaAcademico\CapaEntidad\bin\Release\CapaEntidad.dll
+D:\SistemaAcademico\CapaEntidad\bin\Release\CapaEntidad.pdb
+D:\SistemaAcademico\CapaEntidad\obj\Release\CapaEntidad.csproj.AssemblyReference.cache
+D:\SistemaAcademico\CapaEntidad\obj\Release\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\SistemaAcademico\CapaEntidad\obj\Release\CapaEntidad.dll
+D:\SistemaAcademico\CapaEntidad\obj\Release\CapaEntidad.pdb
